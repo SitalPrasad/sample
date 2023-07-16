@@ -1,0 +1,5 @@
+suburb,state,expectedPostCode
+Greenway,ACT,2900
+North Rocks,NSW,2151
+Altona Meadows,VIC,3028
+Mount Colah,NSW,2079
